@@ -1,4 +1,4 @@
-# Python Notebooks covering Data Visualiation and Machine Learning Problems
+# Python Notebooks for Data Visualiation and Machine Learning Problems
 
 Feel free to fork this repo and practice using python to explore and visualize data.
 
@@ -7,6 +7,6 @@ Feel free to fork this repo and practice using python to explore and visualize d
 * [Exploring the Titanic Data Set with Seaborn](../dataviz/Titanic_Seaborn.ipynb)
 * [Exploring 911 Calls with Seaborn](../dataviz/EmergencyCalls_Seaborn.ipynb)
 
-## Machine Learnign Notebooks:
+## Machine Learning Notebooks:
 * [Using K Means Clustering with Iris Data Set](../machinelearning/Iris_KMeansClustering.ipynb) 
 * [Using Logistic Regression to Predict Survival of Titanic Passengers](../machinelearning/Titanic_Logistic Regression.ipynb)
