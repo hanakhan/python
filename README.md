@@ -1,4 +1,4 @@
-# Python Notebooks for Data Visualiation and Machine Learning Problems
+# Python Notebooks for Data Visualization and Machine Learning Problems
 
 Feel free to fork this repo and practice using python to explore and visualize data.
 
